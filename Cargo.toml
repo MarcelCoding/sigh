@@ -16,3 +16,5 @@ nom = "7"
 openssl = "0.10"
 base64 = "0.22"
 thiserror = "1"
+rsa = { version = "0.9", features = ["sha2"] }
+rand = "0.8"
